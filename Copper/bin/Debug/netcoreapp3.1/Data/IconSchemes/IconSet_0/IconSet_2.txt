@@ -1,0 +1,7 @@
+Holder=System.Windows.Controls.Border;
+CreatinDate=4/15/2023 12:37:29 AM;
+Id=30193720;
+Name=IconSet_2;
+Components=;
+Locations=;
+Canvas=System.Windows.Controls.Canvas;

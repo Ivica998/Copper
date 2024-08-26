@@ -1,0 +1,15 @@
+﻿<Window x:Class="Copper.IconSchemeViewer"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Copper"
+        mc:Ignorable="d"
+        Title="IconSchemeViewer" Height="450" Width="450">
+    <Grid>
+        <Canvas x:Name="myCanvas" local:MyAttachments.AllowIconDrop="True">
+            
+        </Canvas>
+    </Grid>
+</Window>
+

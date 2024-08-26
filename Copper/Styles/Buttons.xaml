@@ -1,0 +1,11 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+    <Style TargetType="{x:Type Button}" x:Key="BaseButton">
+        <Setter Property="Background" Value="#333333"/>
+        <Setter Property="Foreground" Value="#BBBBBB"/>
+    </Style>
+    <Style TargetType="{x:Type Button}" BasedOn="{StaticResource BaseButton}">
+        
+    </Style>
+</ResourceDictionary>

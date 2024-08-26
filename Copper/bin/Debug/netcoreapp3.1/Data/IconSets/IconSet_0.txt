@@ -1,0 +1,4 @@
+Name=IconSet_0;
+Components=IconSet_1|IconSet_2;
+Locations=IconSet_1:49,58.08|IconSet_2:32,71.08;
+Canvas=System.Windows.Controls.Canvas;
